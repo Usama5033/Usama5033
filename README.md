@@ -1,3 +1,4 @@
+![logo](https://github.com/Usama5033/Usama5033/commit/3a427c3d98af4557547c5bd71f7443155e0a7a75)
 <h1 align="center">Hi 👋, I'm Usama Zakir</h1>
 <h3 align="center">A passionate Full Stack Web-Developer & Android App Developer from Pakistan</h3>
 
