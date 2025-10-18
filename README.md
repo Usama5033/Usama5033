@@ -13,7 +13,8 @@
 - 🤝 I’m looking for help with **Agent-Based Decision Support for Course Registration and Academic Planning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Usama5033](https://github.com/Usama5033)
-
+<img align="right"alt="Coding"width="400"src="https://github.com/user-attachments/assets/2f9964f4-8901-4ed1-aa77-a197ac03a1a3" />
+"
 - 💬 Ask me about **HTML, CSS, JavaScript, Python**
 
 - 📫 How to reach me **usamazakir5033@gmail.com**
